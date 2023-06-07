@@ -63,3 +63,8 @@ border-top-left-radius: 10px;
     border: none;
     font-family: 'Montserrat', sans-serif;
 }
+.cart:hover{
+    cursor: pointer;
+    background-color: hsl(212, 21%, 14%);
+}
+
