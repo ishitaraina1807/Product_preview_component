@@ -10,6 +10,7 @@ body{
     height: 452px;
     background-color: hsl(0, 0%, 100%);    
     border-radius: 10px;
+    
 }
 .img {
 border-bottom-left-radius: 10px;    
@@ -26,6 +27,7 @@ border-top-left-radius: 10px;
     gap: 20px;
     padding: 20px;
     padding-left: 0px;
+    align-items: center;
 }
 .title {
     color: hsl(228, 12%, 48%);
@@ -62,6 +64,7 @@ border-top-left-radius: 10px;
     column-gap: 30px;
     border: none;
     font-family: 'Montserrat', sans-serif;
+    align-items: center;
 }
 .cart:hover{
     cursor: pointer;
