@@ -89,7 +89,6 @@ border-top-left-radius: 10px;
     }
 
     .product{
-        margin-top: 5rem;
         flex-direction: column; 
         height: auto;
     }
