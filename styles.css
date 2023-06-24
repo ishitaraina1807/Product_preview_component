@@ -85,13 +85,20 @@ border-top-left-radius: 10px;
 }
 @media screen and (max-width: 440px) {
     body{
-        padding: 2rem;
-
+        padding: 1rem;
     }
+
     .product{
-        flex-direction: column;
+        margin-top: 5rem;
+        flex-direction: column; 
+        height: auto;
     }
     .img{
+      content: url(/images/image-product-mobile.jpg);
+      border-radius:7px 7px 0 0;
+    }
+  
+}
     
     }
   
